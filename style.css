@@ -2,6 +2,10 @@
 .nutri{
     width: 300px;
     text-align: center;
+    border: 10,10,30,0px;
+    padding: 0,0,0,50%;
+    position: relative;
+    left: 15%;
 
 }
 
@@ -25,4 +29,5 @@ p{
 
 .bloqueUno{
     text-align: center;
+    background-color: brown;
 }
