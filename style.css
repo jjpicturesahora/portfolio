@@ -1,11 +1,14 @@
 
-.nutri{
+.nutriPicture{
     width: 300px;
     text-align: center;
     border: 10,10,30,0px;
     padding: 0,0,0,50%;
     left: 15%;
 
+}
+.nutriFrame{
+    text-align: center;
 }
 
 h1{
